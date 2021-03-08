@@ -2,4 +2,4 @@
 # To add a new markdown cell, type '# %% [markdown]'
 import pandas as pd
 
-pd
+pd.dataframe
